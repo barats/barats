@@ -6,7 +6,6 @@ Barat Semet (بارات سەمەت ) | Passionate about Open Source | Coder
 
 欢迎关注公众号「**巴不得说**」
 
-<a href="https://github.com/barats" style="display: inline-flex; align-items: center;"><img src="https://github-readme-stats.vercel.app/api?username=barats&show_icons=true&layout=compact&hide_title=true&include_all_commits=true&count_private=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barats&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
 ## 📕 My Latest 
 
 - 2022-05-10 [Golang 开发过程中 Live Reload 实践](https://mp.weixin.qq.com/s/ZkA54bd0cUAM7FJpYnlYug)
