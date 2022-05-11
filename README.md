@@ -6,6 +6,20 @@ Barat Semet (بارات سەمەت ) | Passionate about Open Source | Coder
 
 欢迎关注公众号「**巴不得说**」
 
+## Things I code with
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-43853d?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-F7B93E?style=flat-square&logo=intellij-idea&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/-Golang-13aa52?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Goland" src="https://img.shields.io/badge/-Goland-2088AF?style=flat-square&logo=goland&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-FB542B?style=flat-square&logo=VisualStudioCode&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+
 ## 📕 My Latest 
 
 - 2022-05-10 [Golang 开发过程中 Live Reload 实践](https://mp.weixin.qq.com/s/ZkA54bd0cUAM7FJpYnlYug)
