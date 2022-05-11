@@ -8,7 +8,7 @@ Barat Semet (بارات سەمەت ) | Passionate about Open Source | Coder
 
 <!-- <a href="https://github.com/barats" style="display: inline-flex; align-items: center;"><img src="https://github-readme-stats.vercel.app/api?username=barats&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barats&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a> -->
 
-[![Barat's GitHub stats](https://github-readme-stats.vercel.app/api?username=barats&hide_title=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/barats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barats&layout=compact)](https://github.com/barats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=barats&hide_title=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/barats)[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barats&layout=compact)](https://github.com/barats)
 
 ## 📕 My Latest 
 
