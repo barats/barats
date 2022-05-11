@@ -8,6 +8,7 @@ Barat Semet (بارات سەمەت ) | Passionate about Open Source | Coder
 
 ## 📕 My Latest 
 
+- 2022-05-10 [Golang 开发过程中 Live Reload 实践](https://mp.weixin.qq.com/s/ZkA54bd0cUAM7FJpYnlYug)
 - 2022-04-28 [开源项目所说的 CLA 是什么？](https://mp.weixin.qq.com/s/IS1Bzd__hoL9LdBE6Iy_hA)
 - 2022-04-27 [安装并使用 RepoStats 代码仓库数据可视化工具](https://mp.weixin.qq.com/s/St3OItSpgcxl_wuuIGnuIA)
 - 2022-04-26 [RepoStats 开源代码仓库数据可视化](https://mp.weixin.qq.com/s/9sNFC0chxeE7gHol6gdc0A)
