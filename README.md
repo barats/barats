@@ -6,7 +6,7 @@ Barat Semet (بارات سەمەت ) | Passionate about Open Source | Coder
 
 欢迎关注公众号「**巴不得说**」
 
-## Things I code with
+## ✨ Things I code with
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-43853d?style=flat-square&logo=Java&logoColor=white" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-F7B93E?style=flat-square&logo=intellij-idea&logoColor=white" />
