@@ -29,6 +29,7 @@ Barat Semet (بارات سەمەت ) | Passionate about Open Source | Coder
 
 ## 🔥 ohUrlShortener 
 
+- 2020-06-24 [ohUrlShortener 短链接系统 v1.5 发布，管理功能增强](https://www.oschina.net/news/200621/ohurlshortener-1-5-released)
 - 2022-05-09 [ohUrlShortener 短链接系统 v1.4 正式发布](https://www.oschina.net/news/194904/ohurlshortener-1-4-released)
 - 2022-04-28 [ohUrlShortener 短链接系统 v1.3 正式发布](https://www.oschina.net/news/193422/ohurlshortener-1-3-released)
 - 2022-04-11 [ohUrlShortener 短链接系统 v1.2 正式发布](https://www.oschina.net/news/190546/ohurlshortener-1-2-released)
