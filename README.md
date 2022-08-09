@@ -21,6 +21,7 @@ Barat Semet (بارات سەمەت ) | Passionate about Open Source | Coder
 </p>
 
 ## 📕 My Latest 
+- 2022-08-04 [牛郎同学，你怎么可以这样？](https://mp.weixin.qq.com/s/VTmwkFU2myUxxwTge1cyHw)
 - 2022-06-01 [关于儿童节，我也说点罢。](https://mp.weixin.qq.com/s/D_SrzVYBLhbAGCSfmSknuQ)
 - 2022-05-10 [Golang 开发过程中 Live Reload 实践](https://mp.weixin.qq.com/s/ZkA54bd0cUAM7FJpYnlYug)
 - 2022-04-28 [开源项目所说的 CLA 是什么？](https://mp.weixin.qq.com/s/IS1Bzd__hoL9LdBE6Iy_hA)
