@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: GitHub-Profile-Summary-Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@latest
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.CARDS_TOKEN }}
         with:
