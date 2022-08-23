@@ -14,6 +14,6 @@ jobs:
       - name: GitHub-Profile-Summary-Cards
         uses: vn7n24fzkq/github-profile-summary-cards@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_SUMMARY_CARDS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
