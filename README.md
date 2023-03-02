@@ -4,6 +4,8 @@ Barat Semet (بارات سەمەت ) | Passionate about Open Source | Coder
 
 巴拉迪维 | 不务正业的互联网老兵 | 漂泊异乡的难民  
 
+敬请关注公众号或视频号 「巴不得说」
+
 [https://barats.cn](https://barats.cn) 
 
 ## ✨ Things I make use of
