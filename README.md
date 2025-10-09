@@ -8,8 +8,6 @@ Barat Semet (بارات سەمەت ) | Passionate about Open Source | Coder
 不务正业的互联网老兵  
 整个地球最坏的那个民族  
 
-[https://barats.cn](https://barats.cn) 
-
 ## ✨ Things I make use of
 
 <p>
