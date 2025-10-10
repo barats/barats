@@ -1,12 +1,6 @@
 ## 👋 Hi
 
-Barat Semet (بارات سەمەت ) | Passionate about Open Source | Coder
-
-巴拉迪维  
-漂泊异乡的难民  
-10+年软件开发小白  
-不务正业的互联网老兵  
-整个地球最坏的那个民族  
+Barat Semet (بارات سەمەت  巴拉迪维) | Passionate about Open Source | Coder
 
 ## ✨ Things I make use of
 
