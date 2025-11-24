@@ -1,6 +1,6 @@
 ## 👋 Hi
 
-Barat Semet (بارات سەمەت  巴拉迪维) | Passionate about Open Source | Coder
+Barat Semet (بارات سەمەت  巴拉迪维) | Singer & Guitar player | Passionate about Open Source
 
 ## ✨ Things I make use of
 
