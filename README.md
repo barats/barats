@@ -1,6 +1,6 @@
 ## 👋 Hi
 
-Barat Semet (بارات سەمەت  巴拉迪维) | Fullstack developer | Singer & Guitar player
+Barat Semet (بارات سەمەت  巴拉迪维) | Fullstack developer | Singer | Guitar player
 
 ## ✨ Things I make use of
 
