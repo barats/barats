@@ -17,12 +17,12 @@ Barat Semet (بارات سەمەت  巴拉迪维) | Fullstack developer | Singer
 
 
 ## :computer: My Github Summary
-![](https://raw.githubusercontent.com/barats/profile-summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg)
-<table>  
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/barats/profile-summary-cards/master/profile-summary-card-output/vue/1-repos-per-language.svg" alt="Top Languages by Repo" with="auto" /></td>
-    <td><img src="https://raw.githubusercontent.com/barats/profile-summary-cards/master/profile-summary-card-output/vue/1-repos-per-language.svg" alt="Top Languages by Commit" with="auto" /></td>  
-    <td><img src="https://raw.githubusercontent.com/barats/profile-summary-cards/master/profile-summary-card-output/vue/3-stats.svg" alt="Top Languages by Commit" with="auto" /></td>
-  </tr>
-</table>
+<div>
+  <a href="https://github.com/barats" alt="Profile Link">
+  <img width="100%" src="https://raw.githubusercontent.com/barats/profile-summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg" alt="Profile Detail" />
+  <img width="33%" src="https://raw.githubusercontent.com/barats/profile-summary-cards/master/profile-summary-card-output/vue/1-repos-per-language.svg" alt="Top Languages by Repo"/>
+  <img width="33%" src="https://raw.githubusercontent.com/barats/profile-summary-cards/master/profile-summary-card-output/vue/1-repos-per-language.svg" alt="Top Languages by Commit"/>
+  <img width="33%" src="https://raw.githubusercontent.com/barats/profile-summary-cards/master/profile-summary-card-output/vue/3-stats.svg" alt="Top Languages by Commit"/>
+  </a>
+</div>
 
